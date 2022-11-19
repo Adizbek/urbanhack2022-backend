@@ -1,1 +1,1 @@
-Sveataforlarni boglab turuvchi backend tizimi
+Sveataforlarni boglab turuvchi backend tizimi, barcha svetoroflarni sinxronlashtirish uchun va masofadan boshqarish uchun 
